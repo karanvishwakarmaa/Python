@@ -1,3 +1,5 @@
+# is-elif-else (SYNTAX)
+
 name = input("Enter Your Name: ")
 age = int(input("Enter Your Age: "))
 

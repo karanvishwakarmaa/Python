@@ -1,0 +1,5 @@
+f = open("X:\Python\File Input & Output\demo.txt", "w")
+data = f.write("I want to learn Spanish Language Tomorrow. 123")
+# print (data)
+# print(type(data))
+f.close()

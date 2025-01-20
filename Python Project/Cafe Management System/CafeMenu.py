@@ -1,5 +1,6 @@
 #Define the menu of restaurant....
 
+
 menu = {
     "Pizza":320,
     "burger": 120,

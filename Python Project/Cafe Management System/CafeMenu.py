@@ -27,7 +27,7 @@ else:
     print(f"Ordered Item (item) is not available yet!!!")
 
 another_order = input("Do You want to add Another Item? (Yes/No) ")
-if another_order == "Yes":
+if (another_order == "Yes") or (another_order == "yes"):
     item2 = input("Enter the name of item =")
     if item2 in menu:
         order_Total += menu[item2]

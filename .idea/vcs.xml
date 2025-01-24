@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C-Personal-Portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Karan-Vishwakarma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Personal-Portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PersonalPortfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/personalWebsite" vcs="Git" />
   </component>
 </project>
